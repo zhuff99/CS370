@@ -8,6 +8,8 @@ Briefly explain the work that you did on this project: What code were you given?
 For the final project we were to add code to the TreasureMaze.ipynb file. The two other python files and the rest of the code
 in the TreasureMaze file were written by SNHU. The only code that was inputed by me was under the sudo code outline. 
 
+
+
 The code was designed to:
     #    Reset the maze with agent set to above position
     #    envstate = Environment.current_state
